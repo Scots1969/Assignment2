@@ -1,0 +1,28 @@
+.App {
+  text-align: Center;
+}
+
+
+
+.App-header {
+  background-color: #20B2AA;
+  height: 110px;
+  font-size: xx-large;
+  padding: 20px;
+  color: white;
+  text-align-verticle: center;
+
+}
+
+ul {
+
+  text-align: left;
+  font-size: 40px;
+  color: green;
+  list-style-type: none;
+
+}
+
+li:hover{
+  background-color: yellow;
+}
